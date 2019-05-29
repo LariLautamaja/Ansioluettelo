@@ -1,0 +1,29 @@
+hl {
+    color: black;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    margin-top: 1em;
+    padding-top: 1em;
+
+}
+
+p {
+    color: darkslategray;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+ul {
+    color: darkslategray;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+li {
+    color: darkslategray;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
